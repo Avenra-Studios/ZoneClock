@@ -1,0 +1,21 @@
+{
+  "KPlugin": {
+    "Id": "zone-clock",
+    "Name": "Zone Clock",
+    "Description": "Manage multiple timezones in your system tray",
+    "Icon": "globe",
+    "Authors": [
+      {
+        "Name": "Martin",
+        "Email": "martin@example.com"
+      }
+    ],
+    "License": "GPL-3.0",
+    "Version": "1.0.0",
+    "Category": "Time and Date"
+  },
+
+  "KPackageStructure": "Plasma/Applet",
+  "MainScript": "ui/main.qml",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
