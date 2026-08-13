@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+f5e0b515ce69fd9496e1fdbfd5ec7a36 CMakeFiles/fetch-translations
+71abb2ccd35bbb35fe8913c2da300012 CMakeFiles/uninstall
+ac1ac0db587bd6672086c5b9f3e0d889 releaseme

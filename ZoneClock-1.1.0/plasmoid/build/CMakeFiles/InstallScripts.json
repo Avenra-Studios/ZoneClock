@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/martin/Let\u00f6lt\u00e9sek/ZoneClock-1.1.0/plasmoid/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
