@@ -1,9 +1,0 @@
-/home/martin/Letöltések/ZoneClock-1.0/plasmoid/build/CMakeFiles/uninstall.dir
-/home/martin/Letöltések/ZoneClock-1.0/plasmoid/build/CMakeFiles/fetch-translations.dir
-/home/martin/Letöltések/ZoneClock-1.0/plasmoid/build/CMakeFiles/test.dir
-/home/martin/Letöltések/ZoneClock-1.0/plasmoid/build/CMakeFiles/edit_cache.dir
-/home/martin/Letöltések/ZoneClock-1.0/plasmoid/build/CMakeFiles/rebuild_cache.dir
-/home/martin/Letöltések/ZoneClock-1.0/plasmoid/build/CMakeFiles/list_install_components.dir
-/home/martin/Letöltések/ZoneClock-1.0/plasmoid/build/CMakeFiles/install.dir
-/home/martin/Letöltések/ZoneClock-1.0/plasmoid/build/CMakeFiles/install/local.dir
-/home/martin/Letöltések/ZoneClock-1.0/plasmoid/build/CMakeFiles/install/strip.dir
